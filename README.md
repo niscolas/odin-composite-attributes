@@ -11,7 +11,7 @@ Follow one of the installation options below, and then install the `Dependencies
 4. Paste the URL below :point_down:
 
 ```
-https://github.com/niscolas/odin-inspector-attributes
+https://github.com/niscolas/odin-inspector-attributes.git
 ```
 
 5. Click on the `Add` button
